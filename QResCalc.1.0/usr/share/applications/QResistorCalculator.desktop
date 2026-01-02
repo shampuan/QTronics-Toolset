@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=QResistorCalculator
+Comment=Resistor color code calculator
+Exec=python3 /usr/share/QResistorCalculator/QResistorCalculator.py
+Path=/usr/share/QresistorCalculator/
+Icon=qresistorcalculator
+Terminal=false
+Categories=Education;Development;Electronics;Engineering;

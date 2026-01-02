@@ -1,0 +1,10 @@
+Package: qresistorcalculator
+Version: 1.0.0
+Section: electronics
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5
+Maintainer: A. Serhat KILIÇOĞLU (shampuan) <www.github.com/shampuan>
+Description: A simple resistor color code calculator.
+ QResistorCalculator is a PyQt5 based tool to calculate resistor 
+ values from color bands or find color codes from values.
