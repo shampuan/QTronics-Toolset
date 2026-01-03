@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LM317 Calculator
+Comment=Calculate LM317 output voltage and resistors
+Exec=python3 /usr/share/LM317Calculator/317Calc.py
+Icon=317
+Terminal=false
+Type=Application
+Categories=Development;Electronics;Engineering;
+Keywords=LM317;Electronics;Calculator;shampuan;
