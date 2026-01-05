@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.4
+Type=Application
+Name=LED Resistor Calculator
+Comment=Calculate LED resistors with E24 standards
+Exec=python3 "/usr/share/LED Resistor Calculator/LEDcalc.py"
+Icon=ledres.png
+Terminal=false
+Categories=Development;Electronics;Engineering;
+Keywords=LED;Resistor;Calculator;Electronics;
