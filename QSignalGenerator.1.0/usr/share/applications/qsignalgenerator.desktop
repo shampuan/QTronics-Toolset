@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=QSignal Generator
+Comment=Real-time Waveform Audio Generator
+Exec=python3 /usr/share/QSignalGenerator/wavegen.py
+Icon=singen.png
+Terminal=false
+Categories=AudioVideo;Audio;Development;
+Keywords=signal;generator;audio;sine;wave;
