@@ -3,7 +3,7 @@ It includes tools for performing electronic calculations.
 
 <img width="128" height="128" alt="qresistorcalculator" src="https://github.com/user-attachments/assets/e5e40ae1-6fb4-4f82-a8dd-932100117e64" /> <img width="128" height="128" alt="317" src="https://github.com/user-attachments/assets/8609392a-3127-41b8-9bec-ee9eb29f9fe7" /> <img width="256" height="256" alt="ledres" src="https://github.com/user-attachments/assets/c0103e10-4a31-4ad6-ab6e-d732efd0888e" />
 
-For now, I've only created a resistor color code calculator. But more will follow, and all modules will be integrated into a single platform.
+There are only a few tools at the moment. But it's maturing rapidly and will soon be a good set. I'm working on it.
 
 <img width="505" height="414" alt="Ekran görüntüsü_2026-01-02_19-51-26" src="https://github.com/user-attachments/assets/7c24b2eb-8be7-4539-8561-6cce991dc117" />
 
