@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0.0
+Name=Zener Calculator
+Comment=Calculate Zener diode circuit values
+Exec=python3 /usr/share/ZenerCalculator/zenercalculator.py
+Icon=zener
+Terminal=false
+Categories=Electronics;Education;Development;
+Keywords=zener;calculator;electronics;physics;

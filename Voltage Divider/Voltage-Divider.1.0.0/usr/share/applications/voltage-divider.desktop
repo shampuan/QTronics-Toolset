@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Voltage Divider Calculator
+Comment=Calculate voltage divider values
+Exec=python3 "/usr/share/Voltage-Divider/voltagedivider.py"
+Icon=divider.png
+Terminal=false
+Categories=Development;Electronics;Engineering;
+Keywords=voltage;divider;resistor;calculator;electronics;
