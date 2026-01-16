@@ -5,8 +5,9 @@ Work is still ongoing. You will soon have a very good set of tools.
 
 ![Work is Underway](https://github.com/user-attachments/assets/5cf3a45f-1343-4779-9ed1-3d33025a824e)
 
+I'm working on a really cool toolkit. Coming soon!...
 
-<img width="128" height="128" alt="qresistorcalculator" src="https://github.com/user-attachments/assets/e5e40ae1-6fb4-4f82-a8dd-932100117e64" /> <img width="128" height="128" alt="317" src="https://github.com/user-attachments/assets/8609392a-3127-41b8-9bec-ee9eb29f9fe7" /> <img width="256" height="256" alt="ledres" src="https://github.com/user-attachments/assets/c0103e10-4a31-4ad6-ab6e-d732efd0888e" />
+<img width="740" height="604" alt="Ekran görüntüsü_2026-01-16_19-12-40" src="https://github.com/user-attachments/assets/c89541f1-1c8e-4059-b2ea-eec21b87c5b0" />
 
 There are only a few tools at the moment. But it's maturing rapidly and will soon be a good set. I'm working on it.
 
