@@ -1,15 +1,13 @@
 # QTronics-Toolset
 It includes tools for performing electronic calculations.
 
-Work is still ongoing. You will soon have a very good set of tools.
 
-![Work is Underway](https://github.com/user-attachments/assets/5cf3a45f-1343-4779-9ed1-3d33025a824e)
+<img width="740" height="674" alt="Ekran görüntüsü_2026-01-24_02-27-55" src="https://github.com/user-attachments/assets/41727086-6b70-4a35-aa5f-edf7a4ca0034" />
 
-I'm working on a really cool toolkit. Coming soon!...
 
 <img width="740" height="604" alt="Ekran görüntüsü_2026-01-16_19-12-40" src="https://github.com/user-attachments/assets/c89541f1-1c8e-4059-b2ea-eec21b87c5b0" />
 
-There are only a few tools at the moment. But it's maturing rapidly and will soon be a good set. I'm working on it.
+
 
 <img width="505" height="414" alt="Ekran görüntüsü_2026-01-02_19-51-26" src="https://github.com/user-attachments/assets/7c24b2eb-8be7-4539-8561-6cce991dc117" />
 
