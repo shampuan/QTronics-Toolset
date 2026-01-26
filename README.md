@@ -2,6 +2,8 @@
 It includes tools for performing electronic calculations.
 
 
+[![Download QTronics ToolSet](https://img.shields.io/sourceforge/dw/qtronics-toolset.svg)](https://sourceforge.net/projects/qtronics-toolset/files/latest/download)
+
 <img width="740" height="674" alt="Ekran görüntüsü_2026-01-24_02-27-55" src="https://github.com/user-attachments/assets/41727086-6b70-4a35-aa5f-edf7a4ca0034" />
 
 
