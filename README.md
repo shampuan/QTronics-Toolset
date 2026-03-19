@@ -4,6 +4,16 @@ It includes tools for performing electronic calculations.
 
 [![Download QTronics ToolSet](https://img.shields.io/sourceforge/dw/qtronics-toolset.svg)](https://sourceforge.net/projects/qtronics-toolset/files/latest/download)
 
+<a href="https://sourceforge.net/projects/qtronics-toolset/files/latest/download"><img alt="Download QTronics ToolSet" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+
+<!-- Begin  Tag -->
+<div class="sf-root" data-id="3951496" data-badge="oss-users-love-us-white" style="width:125px">
+    <a href="https://sourceforge.net/projects/qtronics-toolset/" target="_blank">QTronics ToolSet</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3951496';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End  Tag -->
+
 <img width="740" height="674" alt="Ekran görüntüsü_2026-01-24_02-27-55" src="https://github.com/user-attachments/assets/41727086-6b70-4a35-aa5f-edf7a4ca0034" />
 
 
