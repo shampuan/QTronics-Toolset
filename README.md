@@ -1,8 +1,8 @@
 # QTronics-Toolset
 It includes tools for performing electronic calculations.
 
+<a href="https://sourceforge.net/projects/qtronics-toolset/files/latest/download"><img alt="Download QTronics ToolSet" src="https://img.shields.io/sourceforge/dm/qtronics-toolset.svg" ></a>
 
-<a href="https://sourceforge.net/projects/qtronics-toolset/files/latest/download"><img alt="Download QTronics ToolSet" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
 <img width="740" height="674" alt="Ekran görüntüsü_2026-01-24_02-27-55" src="https://github.com/user-attachments/assets/41727086-6b70-4a35-aa5f-edf7a4ca0034" />
 
