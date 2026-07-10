@@ -37,12 +37,6 @@ It was built out of a simple frustration: most electronics calculator tools onli
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-<img src="ScreenShots/main-window.png" alt="QTronics ToolSet main window" width="700">
-</div>
-
 <details>
 <summary><strong>More screenshots</strong></summary>
 
