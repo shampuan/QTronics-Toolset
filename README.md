@@ -1,6 +1,247 @@
 # QTronics-Toolset
 It includes tools for performing electronic calculations.
 
+<div align="center">
+
+<img src="ScreenShots/logo.png" alt="QTronics ToolSet logo" width="96" height="96">
+
+# QTronics ToolSet
+
+**A free, open-source electronics calculator suite for Linux**
+
+Ohm's Law · Resistor Networks · Filters · Regulators · Signal Generation · Unit Conversion — all in one lightweight desktop app.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux-informational)](#-installation)
+[![Made with Python](https://img.shields.io/badge/made%20with-Python-3776AB?logo=python&logoColor=white)](#)
+[![PyQt6](https://img.shields.io/badge/GUI-PyQt6-41CD52?logo=qt&logoColor=white)](#)
+[![Pardus](https://img.shields.io/badge/tested%20on-Pardus%20Linux-D71920)](#)
+
+[SourceForge](https://sourceforge.net/projects/qtronics-toolset/) · [Report a Bug](https://github.com/shampuan/QTronics-Toolset/issues) · [Request a Feature](https://github.com/shampuan/QTronics-Toolset/issues)
+
+</div>
+
+---
+
+## About
+
+**QTronics ToolSet** is a modular, offline electronics calculator built for hobbyists, students, and engineers who work on Linux. Instead of juggling a dozen browser tabs for Ohm's law, LED resistor sizing, filter design, or voltage regulator math, QTronics ToolSet keeps every calculation in one native, distraction-free desktop application.
+
+It was built out of a simple frustration: most electronics calculator tools online are ad-heavy, require an internet connection, or simply don't exist as native Linux apps. QTronics ToolSet fixes that with a single, self-contained toolbox — no browser, no ads, no telemetry.
+
+- 🐧 **Linux-first** — built and tested on Pardus Linux (Debian-based), works across most modern distros
+- 📴 **Fully offline** — no internet connection required, no data leaves your machine
+- 🧩 **Modular** — 50+ independent calculation tools behind one launcher
+- 🪶 **Lightweight** — pure Python + PyQt6, minimal dependencies
+- 🔓 **Free & open source** — GPL-3.0 licensed, forever
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+<img src="ScreenShots/main-window.png" alt="QTronics ToolSet main window" width="700">
+</div>
+
+<details>
+<summary><strong>More screenshots</strong></summary>
+
+<br>
+
+| Ohm's Law Calculator | Resistor Color Decoder | Filter Designer |
+|:---:|:---:|:---:|
+| <img src="ScreenShots/ohms-law.png" width="260"> | <img src="ScreenShots/resistor-color.png" width="260"> | <img src="ScreenShots/filter.png" width="260"> |
+
+</details>
+
+---
+
+## ✨ Features
+
+QTronics ToolSet groups electronics calculations into focused, single-purpose tools. Every tool opens in its own compact window so you only see what you need.
+
+<details open>
+<summary><strong>🔢 Fundamentals & Resistor Networks</strong></summary>
+
+| Tool | Description |
+|---|---|
+| Ohm's Law | Solve for V, I, or R instantly |
+| Kirchhoff's Laws | Current/voltage law reference & solver |
+| Parallel Resistor | Combined resistance for parallel networks |
+| Voltage Divider | Two-resistor divider output calculation |
+| Wheatstone Bridge | Bridge balance and unknown resistance solver |
+| Resistor Color Code | Band color ↔ resistance value decoder |
+| Standard Resistor | Nearest E-series (E12/E24/E96) value finder |
+| Base Resistor | BJT base resistor sizing |
+
+</details>
+
+<details>
+<summary><strong>⚡ Components & Passive Networks</strong></summary>
+
+| Tool | Description |
+|---|---|
+| Zener Diode | Zener regulator resistor sizing |
+| LED Resistor | Series resistor for single/multiple LEDs |
+| Capacitor | Capacitance, charge, and energy calculations |
+| Capacitive Reactance | Xc at a given frequency |
+| Inductor | Inductance and reactance calculations |
+| Transformer / Transformer VA | Turns ratio, VA rating, secondary current |
+| R-C Time | RC charge/discharge time constant |
+| Toroid Core | Turns count for a target inductance |
+| SMD Code | SMD resistor marking decoder |
+
+</details>
+
+<details>
+<summary><strong>🔋 Power, Regulation & Charging</strong></summary>
+
+| Tool | Description |
+|---|---|
+| LED from HV | Driving an LED directly from mains/high voltage |
+| Charge from HV | HV-derived low-current charging calculations |
+| Transformerless PSU | Capacitive dropper power supply design |
+| 78XX Heat | Linear regulator heat dissipation |
+| LM317 Regulator | Output voltage / resistor divider design |
+| Current Limit | Current-limiting resistor design |
+| Transistor Regulator | Discrete transistor-based regulation |
+| Current Mirror | Bias and output current calculations |
+| Battery Charge / 3XX Battery Charger | Charging current & time estimation |
+| Cbatt Time | Capacitor-based battery runtime estimate |
+| Heatsink Calc | Thermal resistance & heatsink sizing |
+
+</details>
+
+<details>
+<summary><strong>📶 Signal, Analog & Digital Design</strong></summary>
+
+| Tool | Description |
+|---|---|
+| NE555 | Astable/monostable timing calculator |
+| TL431 | Precision reference divider design |
+| BJT Saturation | Saturation region check for switching transistors |
+| MOSFET | Gate resistor & switching parameter helper |
+| Hi-Lo Pass | RC high-pass / low-pass corner frequency |
+| OPAMP | Common op-amp gain configurations |
+| Schmitt-Trigger | Threshold design for hysteresis circuits |
+| Signal Generator | Waveform frequency/period reference tool |
+| Darlington/Sziklai | Compound transistor pair gain |
+| Ladder DAC | R-2R ladder output calculation |
+| Long Tailed Pair | Differential pair biasing |
+| Buck-Boost | Switching converter component sizing |
+| Logic Gates | Truth table reference for common gates |
+| Flip-Flop | Sequential logic reference |
+| Electronic Filter | Passive filter design helper |
+| 7 Segment | Segment/pin mapping reference |
+
+</details>
+
+<details>
+<summary><strong>📏 RF, Layout & Unit Conversion</strong></summary>
+
+| Tool | Description |
+|---|---|
+| Antenna Length | Quarter/half-wave antenna length by frequency |
+| Trace Size | PCB copper trace width for target current |
+| Cable Diameter | Wire gauge sizing for current/length |
+| Decibel Converter | dB ↔ ratio/power conversions |
+| Unit Converter | General electronics unit conversions |
+
+</details>
+
+---
+
+## 📥 Installation
+
+QTronics ToolSet is distributed as a `.deb` package for Debian-based distributions (Pardus, Debian, Ubuntu, and derivatives), and via SourceForge for broader access.
+
+### Option 1 — Download the `.deb` package (recommended)
+
+[![Download QTronics ToolSet](https://img.shields.io/sourceforge/dm/qtronics-toolset.svg)](https://sourceforge.net/projects/qtronics-toolset/files/latest/download)
+
+```bash
+# Download the latest .deb from the Releases page or SourceForge, then:
+sudo dpkg -i QTronicsTool*.deb
+sudo apt-get install -f   # resolves any missing dependencies
+```
+
+### Option 2 — Run from source
+
+<details>
+<summary><strong>Show source installation steps</strong></summary>
+
+```bash
+git clone https://github.com/shampuan/QTronics-Toolset.git
+cd QTronics-Toolset
+
+# Install PyQt6 if not already present
+pip install PyQt6 --break-system-packages
+
+python3 qtronics_toolset.py
+```
+
+</details>
+
+### Uninstall
+
+```bash
+sudo apt remove qtronics-toolset
+```
+
+---
+
+## 🖥️ Requirements
+
+| Requirement | Version |
+|---|---|
+| OS | Debian-based Linux (Pardus, Debian, Ubuntu, etc.) |
+| Python | 3.x |
+| GUI Toolkit | PyQt6 |
+| Disk space | < 20 MB |
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Additional filter topologies (active filters)
+- [ ] Dark/light theme toggle independent of system theme
+- [ ] More unit categories in the general converter
+- [ ] Translations beyond Turkish/English
+
+Have an idea for a tool that's missing? [Open an issue](https://github.com/shampuan/QTronics-Toolset/issues) — module suggestions are welcome.
+
+---
+
+## 🤝 Contributing
+
+Contributions, bug reports, and tool suggestions are welcome.
+
+1. Fork the repository
+2. Create a branch (`git checkout -b feature/new-tool`)
+3. Commit your changes
+4. Open a pull request describing the tool or fix
+
+Since the project is composed of independent calculator modules, small, focused pull requests (one tool per PR) are the easiest to review.
+
+---
+
+## 📄 License
+
+QTronics ToolSet is released under the **GNU General Public License v3.0**. See [LICENSE](LICENSE) for the full text.
+
+---
+
+## 👤 Author
+
+**A. Serhat KILIÇOĞLU**
+GitHub: [@shampuan](https://github.com/shampuan)
+
+<div align="center">
+
+If QTronics ToolSet saved you a trip to a browser calculator, consider starring the repo — it helps other Linux users find the project.
+
+</div>
+
 <a href="https://sourceforge.net/projects/qtronics-toolset/files/latest/download"><img alt="Download QTronics ToolSet" src="https://img.shields.io/sourceforge/dm/qtronics-toolset.svg" ></a>
 
 <a href="https://sourceforge.net/projects/qtronics-toolset/files/latest/download"><img alt="Download QTronics ToolSet" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
